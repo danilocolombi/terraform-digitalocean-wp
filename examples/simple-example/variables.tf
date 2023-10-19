@@ -1,6 +1,5 @@
 variable "do_token" {
   type    = string
-  default = "dop_v1_43d2bb56d56bdde30f08b43f7e8394fa9f300563bb992f41860c838f64013a13"
 }
 
 variable "region" {
